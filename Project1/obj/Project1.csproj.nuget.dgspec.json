@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\Project1\\Project1\\Project1.csproj": {}
+    "D:\\New folder\\Project\\Project1\\Project1.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\Project1\\Project1\\Project1.csproj": {
+    "D:\\New folder\\Project\\Project1\\Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\Project1\\Project1\\Project1.csproj",
+        "projectUniqueName": "D:\\New folder\\Project\\Project1\\Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "D:\\New folder\\Project1\\Project1\\Project1.csproj",
+        "projectPath": "D:\\New folder\\Project\\Project1\\Project1.csproj",
         "packagesPath": "C:\\Users\\Pankaj.Pal\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\Project1\\Project1\\obj\\",
+        "outputPath": "D:\\New folder\\Project\\Project1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pankaj.Pal\\AppData\\Roaming\\NuGet\\NuGet.Config",

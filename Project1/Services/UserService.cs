@@ -24,7 +24,7 @@ namespace Project1.Services
         public async Task<IApiResultModel> GetallAsync()
         {
             IApiResultModel apiResultModel = null;
-            ListModel<ApplicationUser> user = new ListModel<ApplicationUser>();
+            ListModel<List<ApplicationUser>> user = new ListModel<List<ApplicationUser>>();
             user.List = _appDbContext.applicationUsers.ToList();
             apiResultModel = user;
             return apiResultModel;
